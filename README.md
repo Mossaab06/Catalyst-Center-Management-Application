@@ -1,4 +1,4 @@
-# telnet
+# Catalyst Center Management Application
 
 A new Flutter project.
 
